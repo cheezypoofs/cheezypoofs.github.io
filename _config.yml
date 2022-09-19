@@ -21,7 +21,8 @@
 title: Hypha - One branch in a larger network
 email: ryan@cathermans.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Everyone needs a junk drawer of thoughts
+  Everyone needs a junk drawer of thoughts that seem profound in one's head and less so
+  written down.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  cheezypoofs
